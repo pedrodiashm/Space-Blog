@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Self Improvement on Space blog!</title>
+    <link>http://localhost:1313/My-Blog/categories/self-improvement/</link>
+    <description>Recent content in Self Improvement on Space blog!</description>
+    <generator>Hugo -- 0.130.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Aug 2024 18:52:31 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/My-Blog/categories/self-improvement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Atomics Habits</title>
+      <link>http://localhost:1313/My-Blog/posts/atomics-habits/</link>
+      <pubDate>Sun, 04 Aug 2024 18:52:31 -0300</pubDate>
+      <guid>http://localhost:1313/My-Blog/posts/atomics-habits/</guid>
+      <description>Reading Atomic Habits, James Clear’s book, I learn several lessons to build good habits and break bad ones. The most important thing about habits is your habits system. A good system allows you to improve 1% every day and makes you 37x better a year. If you want results, achieve your goals, you need to focus on your habits system.
+How to change my behavior? There are three levels that changes could happen:</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Rant on Space blog!</title>
+    <link>http://localhost:1313/My-Blog/tags/rant/</link>
+    <description>Recent content in Rant on Space blog!</description>
+    <generator>Hugo -- 0.130.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Aug 2024 18:45:24 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/My-Blog/tags/rant/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Autodesenvolvimento e por que comecei esse blog</title>
+      <link>http://localhost:1313/My-Blog/posts/why-i-started-a-blog/</link>
+      <pubDate>Thu, 01 Aug 2024 18:45:24 -0300</pubDate>
+      <guid>http://localhost:1313/My-Blog/posts/why-i-started-a-blog/</guid>
+      <description>POV: você está perdido
+O começo. Recentemente, em maio desse ano, entrei na onda do autodesenvolvimento. 19 anos, desempregado sem experiência profissional relevante, cursando computação sem saber se era o que eu realmente queria, sem namorada, amigos presentes e recém recuperado das minhas crises esquizofrênicas de um ano atrás - perdi meu primeiro emprego como analista de ti jr, uma amizade que achava importante (talvez isso foi a melhor coisa que ocorreu), minha dignidade, minha sanidade e minha vontade de viver.</description>
+    </item>
+  </channel>
+</rss>

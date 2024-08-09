@@ -71,7 +71,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: "Welcome to my blog! i'm space, just a simple guy who want to say something on the internet. Maybe you will find some educational content, rants, book, animes, series and movies reviews, sometimes in english, sometimes in portuguese - my native language."
+    Content: "Welcome to my blog! i'm space, just a simple guy who want to say something on the internet. Maybe you will find some educational content, rants, books, animes, series and movies reviews, sometimes in english, sometimes in portuguese - my native language."
     
   socialIcons:
     - name: github
