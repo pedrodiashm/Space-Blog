@@ -2,34 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/My-Blog/posts/second-law-of-change-behaviorestou-desistindo/</loc>
+    <lastmod>2024-08-22T19:33:31-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/My-Blog/tags/book/</loc>
+    <lastmod>2024-08-22T19:33:31-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/My-Blog/categories/</loc>
+    <lastmod>2024-08-22T19:33:31-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/My-Blog/categories/en/</loc>
+    <lastmod>2024-08-22T19:33:31-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/My-Blog/tags/habits/</loc>
+    <lastmod>2024-08-22T19:33:31-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/My-Blog/posts/</loc>
+    <lastmod>2024-08-22T19:33:31-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/My-Blog/tags/self-improvement/</loc>
+    <lastmod>2024-08-22T19:33:31-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/My-Blog/categories/self-improvement/</loc>
+    <lastmod>2024-08-22T19:33:31-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/My-Blog/</loc>
+    <lastmod>2024-08-22T19:33:31-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/My-Blog/tags/</loc>
+    <lastmod>2024-08-22T19:33:31-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/My-Blog/posts/back-to-electronic/</loc>
+    <lastmod>2024-08-17T21:47:58-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/My-Blog/tags/electronics/</loc>
+    <lastmod>2024-08-17T21:47:58-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/My-Blog/categories/physics/</loc>
+    <lastmod>2024-08-17T21:47:58-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/My-Blog/posts/1slawofhabits/</loc>
+    <lastmod>2024-08-09T15:39:53-03:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/My-Blog/tags/atomic-habits/</loc>
     <lastmod>2024-08-04T18:52:31-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/My-Blog/posts/atomics-habits/</loc>
-    <lastmod>2024-08-04T18:52:31-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/My-Blog/tags/book/</loc>
-    <lastmod>2024-08-04T18:52:31-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/My-Blog/categories/</loc>
-    <lastmod>2024-08-04T18:52:31-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/My-Blog/categories/en/</loc>
-    <lastmod>2024-08-04T18:52:31-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/My-Blog/posts/</loc>
-    <lastmod>2024-08-04T18:52:31-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/My-Blog/tags/self-improvement/</loc>
-    <lastmod>2024-08-04T18:52:31-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/My-Blog/categories/self-improvement/</loc>
-    <lastmod>2024-08-04T18:52:31-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/My-Blog/</loc>
-    <lastmod>2024-08-04T18:52:31-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/My-Blog/tags/</loc>
     <lastmod>2024-08-04T18:52:31-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/My-Blog/tags/autodesenvolvimento/</loc>
