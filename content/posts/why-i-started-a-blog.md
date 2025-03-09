@@ -3,7 +3,7 @@ title = 'Autodesenvolvimento e por que comecei esse blog'
 date = 2024-08-01T18:45:24-03:00
 draft = false
 tags =["rant", "desabafo", "autodesenvolvimento"]
-categories = ["Sobre mim/About me", "pt-br"]
+categories = ["Sobre mim/About me"]
 +++
 
 POV: você está perdido
