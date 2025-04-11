@@ -1,6 +1,6 @@
 baseURL: "https://pedrodiashm.github.io/My-Blog/"
 languageCode: en-us
-title: Space blog!
+title: SpacePH blog!
 theme: ["PaperMod"]
 
 
@@ -60,8 +60,8 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Space's Blog!
-    subtitle: "A space cowboy (not like Spike Spiegel) trying write some ideas. Maybe you will find some educational content, rants, book, animes, series and movies reviews, sometimes in english, sometimes in portuguese - my native language."  
+    title: Blog do SpacePH!
+    subtitle: "Hey! eu sou o Pedro, mas pode me chamar de Space ou PH! Aqui você encontrará alguns dos meus pensamentos sobre diversas coisas"  
     buttons:
       - name: Posts
         url: posts
