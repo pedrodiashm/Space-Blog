@@ -3,7 +3,6 @@ languageCode: en-us
 title: SpacePH blog!
 theme: ["PaperMod"]
 
-
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -43,14 +42,14 @@ params:
   showtoc: false
   tocopen: false
 
- # assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
-    #favicon: "<link / abs url>"
-    #favicon16x16: "<link / abs url>"
-    #favicon32x32: "<link / abs url>"
-    #apple_touch_icon: "<link / abs url>"
-    #safari_pinned_tab: "<link / abs url>"
+  # assets:
+  # disableHLJS: true # to disable highlight.js
+  # disableFingerprinting: true
+  #favicon: "<link / abs url>"
+  #favicon16x16: "<link / abs url>"
+  #favicon32x32: "<link / abs url>"
+  #apple_touch_icon: "<link / abs url>"
+  #safari_pinned_tab: "<link / abs url>"
 
   label:
     text: "Space's Blog"
@@ -65,7 +64,6 @@ params:
     imageUrl: "images/spikeEdited.jpg"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my image  
     buttons:
       - name: Posts
         url: posts
@@ -76,13 +74,12 @@ params:
   homeInfoParams:
     Title: "Hi there \U0001F44B"
     Content: "Welcome to my blog! i'm space, just a simple guy who want to say something on the internet. Maybe you will find some educational content, rants, books, animes, series and movies reviews, sometimes in english, sometimes in portuguese - my native language."
-    
+
   socialIcons:
     - name: github
       url: "https://github.com/pedrodiashm"
     - name: X
       url: "https://x.com/l0stspacecowboy"
-
 
   cover:
     hidden: true # hide everywhere but not in structured data
