@@ -1,7 +1,7 @@
 +++
 title = 'Como comprar um telescópio'
 date = 2025-10-09T15:57:13-03:00
-draft = true
+draft = false
 tags = ["astronomia", "dicas"]
 categories = ["astronomia", "fisíca"]
 +++
