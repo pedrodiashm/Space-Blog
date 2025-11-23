@@ -42,8 +42,7 @@ Vamos a física básica!!
 
 **Telescópios refratores** se baseam no fenômeno da refração. Refração ocorre quando a luz passa de um meio para o outro. No caso refratores, eles captam a luz a pela lente objetiva (abertura), concentra a luz e forma uma imagem real na ocular. Por conta da refração, esse tipo está sujeito a aberrações cromáticas quando captam objetos com muita luz como a lua, por exemplo. A aberração cromatica faz a borda dos objetos ter um halo azul. É possivel corrigir isso (apocromáticos), porém o custo do equipamento eleva drasticamente. A maioria dos telescópios refratores são acromaticos e vão ter um pouco de aberração.
 
-**Telescópios refletores** por sua vez utilizam a reflexão através de espelhos para gerar a imagem. Um espelho concavo no fundo do tubo capta a imagem, converge no ponto de foco e um espelho secundario redireciona a luz para a ocular. Por não ter refração, não há aberração cromática, porém, há outros tipos de aberrações, como coma e aberração esférica. Essa aberrações afeta a visualização das estrelas
-Um refletor de abertura grande costuma ser mais barato que um refrator de abertura grande. Porém para abertura menores um refrator é mais barato.
+**Telescópios refletores** por sua vez utilizam a reflexão através de espelhos para gerar a imagem. Um espelho concavo no fundo do tubo capta a imagem, converge no ponto de foco e um espelho secundario redireciona a luz para a ocular. Por não ter refração, não há aberração cromática, porém, há outros tipos de aberrações, como coma e aberração esférica. Essa aberrações afeta a visualização das estrelas, deixando rastros ou algo como astigmatismo. Um refletor de abertura grande costuma ser mais barato que um refrator de abertura grande. Porém para abertura menores um refrator é mais barato.
 
 ## Resumo
 
